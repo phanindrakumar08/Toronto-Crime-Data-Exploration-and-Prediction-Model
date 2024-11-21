@@ -1,5 +1,7 @@
 # Toronto Crime Data Exploration and Prediction Model  
 
+![Toronto Crime](https://github.com/user-attachments/assets/7816bd84-ab5d-4bfc-9619-c094e1bd7a8c)
+
 ## Project Overview  
 This project analyzes and predicts crime trends in Toronto, Canada, using the "Major Crime Indicators Open Data" from the Toronto Police Service. The dataset spans 2014-2022 and provides key insights into crime patterns, aiding in proactive law enforcement and resource allocation.  
 
